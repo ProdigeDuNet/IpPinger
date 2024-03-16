@@ -19,8 +19,6 @@ Saisir ensuite cette commande :
 
 ```python3 IP-Pinger```
 
-Après avoir effectué toutes les étapes ci-dessus, vous pouvez maintenant exécuter ‘DBsearcherProdige.py’
-
 #Utilisation
 
 entre juste l'ip la ou c'est demander t'appuie sur enter et c'est good.
