@@ -11,6 +11,8 @@ Vous pouvez la télécharger sous forme de fichier zip ou l’installer en suiva
 
 Créez un nouveau dossier où vous le souhaitez, puis ouvrez une invite de commande ou un powershell à l’intérieur. Ensuite, [install git] (https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line) si vous ne l’avez pas déjà.
 
+lancer le config.bat
+
 Saisir ensuite cette commande :
 
 ```git clone https://github.com/ProdigeDuNet/IpPinger.git```
